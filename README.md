@@ -1,16 +1,82 @@
-## Hi there 👋
+# Hi there! 👋 I'm Guiller Diola
 
-<!--
-**guillerdiola/guillerdiola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **BSIT Graduate (2025)**  
+💻 Aspiring Web Developer & Data Analyst
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🌱 Currently learning Data Analytics and Web Development
+- 💻 Passionate about PHP, SQL, and Power BI
+- 📊 Building dashboards with Excel and Power BI
+- 🗃️ Developing database-driven applications using MySQL
+- 📚 Always learning new technologies
+
+---
+
+## 🛠️ Tech Stack
+
+### Programming & Web Development
+- PHP
+- HTML
+- CSS
+- JavaScript
+- MySQL
+
+### Data Analytics
+- Microsoft Excel
+- Power BI
+- SQL
+
+### Tools
+- Git
+- GitHub
+- VS Code
+- XAMPP
+
+---
+
+## 🏆 Certifications & Awards
+
+🏅 NC II Electronics
+
+🏅 Microsoft Excel Certificate
+
+🏅 Power BI Certificate
+
+🏅 MySQL Certificate
+
+🥇 Best in MySQL
+
+🌟 Most Outstanding Student Award
+
+---
+
+## 📂 Featured Project
+
+### 📁 Digital Archiving Solution
+
+A web-based Digital Archiving Solution developed using **PHP**, **MySQL**, **HTML**, **CSS**, and **JavaScript**.
+
+**Features**
+- User Authentication
+- Document Management
+- Folder Management
+- Search Functionality
+- Dashboard
+- Admin Panel
+
+🔗 GitHub Repository:
+https://github.com/guillerdiola/digital-archiving-solution
+
+---
+
+## 📫 Connect with Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/guillerdiola/
+- 💻 GitHub: https://github.com/guillerdiola
+
+---
+
+⭐ Thanks for visiting my profile!
